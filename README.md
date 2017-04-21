@@ -31,3 +31,12 @@ To start using **LexNET**, read the [Quick Start](https://github.com/vered1986/L
 * To reproduce the results reported in the paper, please use [V1](https://github.com/vered1986/LexNET/tree/master).
 * The pre-processed corpus files are currently only available for V1. The V2 files are 53GB zipped. Contact me if you want them.
 ***
+
+
+
+
+
+# install 3rd-party tools
+# install dynet
+
+http://dynet.readthedocs.io/en/latest/python.html
